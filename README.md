@@ -5,10 +5,15 @@
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
+<a href="https://sourcerer.io/jean1dev"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="16px" alt="Sourcerer"></a>
 
 <br />
 <br />
 
+- 🔭 I’m currently working on ...
+<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/TypeScript-191%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/JavaScript-552%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/Java-227%20commits-orange.svg" alt=""></a>
 
 <img align="left" alt="Jean" src="https://github-readme-stats.vercel.app/api?username=Jean1dev&show_icons=true&hide_border=true" />
 
@@ -20,7 +25,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
