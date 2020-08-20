@@ -5,7 +5,7 @@
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
-[<img src="https://sourcerer.io/icons/logo-sharing.svg"height="16px" alt="Sourcerer"/>][sourcer]
+[<img src="https://sourcerer.io/icons/logo-sharing.svg" height="16px" alt="Sourcerer"/>][sourcer]
 
 <br />
 <br />
