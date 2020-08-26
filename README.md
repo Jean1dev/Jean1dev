@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on ...
 <br />
-<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/TypeScript-191%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/JavaScript-552%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/Java-227%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/TypeScript-220%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/JavaScript-614%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/Java-241%20commits-orange.svg" alt=""></a>
 
 <br />
 <img align="left" alt="Jean" src="https://github-readme-stats.vercel.app/api?username=Jean1dev&show_icons=true&hide_border=true" />
