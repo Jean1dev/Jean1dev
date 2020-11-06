@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <h3> 👨‍💻 Sobre mim</h3>
-- 🎓 &nbsp; Graduando em Ciência da Computação.
-- 👨💻 &nbsp; Analista de sistema com foco em backend
+
+ - 🎓 &nbsp; Graduando em Ciência da Computação.
+ - 👨💻 &nbsp; Analista de sistema com foco em backend
 
 <h2 align="center"> ### - 📫 How to reach me: ...</h2>
 <p align="center">  
