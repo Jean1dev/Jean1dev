@@ -2,10 +2,10 @@
 
 ### - 📫 How to reach me: ...
 
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][insta]
-[<img src="https://sourcerer.io/icons/logo-sharing.svg" height="16px" alt="Sourcerer"/>][sourcer]
+<p align="center">  
+ <a href="https://www.linkedin.com/in/jeanluca-fernandes-969266126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeanluca%20Fernandes-blue?logo=linkedin?logo=linkedin"></a>
+ <a href="https://medium.com/@jeanluca_fp"><img alt="LinkedIn" src="https://img.shields.io/badge/Medium-@jeanluca_fp-green?logo=medium"></a>
+</p>
 
 <br />
 <br />
@@ -18,11 +18,6 @@
 
 <br />
 <img align="left" alt="Jean" src="https://github-readme-stats.vercel.app/api?username=Jean1dev&show_icons=true&hide_border=true" />
-
-[medium]: https://medium.com/@jeanluca_fp
-[linkedin]: https://www.linkedin.com/in/jeanluca-fernandes-969266126/
-[insta]: https://www.instagram.com/jeanlucafp/
-[sourcer]: https://sourcerer.io/jean1dev
 <!--
 **Jean1dev/Jean1dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,3 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean1dev&layout=compact)](https://github.com/Jean1dev)
