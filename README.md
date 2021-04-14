@@ -14,6 +14,7 @@
 <br />
 
 - 🔭 I’m currently working on ...
+- <p align=left> <img src=https://komarev.com/ghpvc/?username=Jean1dev alt=jean /> </p>
 <br />
 <a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/TypeScript-228%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/jean1dev"><img src="https://img.shields.io/badge/JavaScript-666%20commits-orange.svg" alt=""></a>
