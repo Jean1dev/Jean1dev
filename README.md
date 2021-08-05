@@ -2,13 +2,14 @@
 
 <h3> 👨‍💻 Sobre mim</h3>
 
- - 🎓 &nbsp; Graduando em Ciência da Computação.
+ - 🎓 &nbsp; Bacharel em Ciência da Computação.
  - 👨💻 &nbsp; Analista de sistemas com foco em backend
 
 <h2 align="center"> ### - 📫 How to reach me: ...</h2>
 <p align="center"> 
- <a href="https://www.youtube.com/channel/UCEKS6GQ60VyhGkAVgJ_Rm6w"><img alt="LinkedIn" src="https://img.shields.io/badge/Youtube-Jeanluca%20Fernandes-red?logo=youtube?logo=linkedin"></a>
- <a href="https://www.linkedin.com/in/jeanluca-fernandes-969266126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeanluca%20Fernandes-blue?logo=linkedin?logo=linkedin"></a>
+ <a href="https://www.twitch.tv/jeanlucafp"><img alt="TwitchTV" src="https://img.shields.io/badge/TwitchTV-Jeanluca%20Fernandes-purple?logo=twitch"></a>
+ <a href="https://www.youtube.com/channel/UCEKS6GQ60VyhGkAVgJ_Rm6w"><img alt="Youtubr" src="https://img.shields.io/badge/Youtube-Jeanluca%20Fernandes-red?logo=youtube"></a>
+ <a href="https://www.linkedin.com/in/jeanluca-fernandes-969266126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeanluca%20Fernandes-blue?logo=linkedin"></a>
  <a href="https://medium.com/@jeanluca_fp"><img alt="LinkedIn" src="https://img.shields.io/badge/Medium-@jeanluca_fp-green?logo=medium"></a>
 </p>
 
