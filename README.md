@@ -7,7 +7,7 @@
 
 <h2 align="center"> ### - 📫 How to reach me: ...</h2>
 <p align="center"> 
- <a href="https://open.spotify.com/show/7muGFfFHtquEHepwXx6lrV?si=Sj2PNpUqRSu5Kwjhgg5wVQ&dl_branch=1"><img alt="Spotify" src="https://img.shields.io/badge/Youtube-Jeanluca%20Fernandes-green?logo=spotify"></a>
+ <a href="https://open.spotify.com/show/7muGFfFHtquEHepwXx6lrV?si=Sj2PNpUqRSu5Kwjhgg5wVQ&dl_branch=1"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-Jeanluca%20Fernandes-green?logo=spotify"></a>
  <a href="https://www.twitch.tv/jeanlucafp"><img alt="TwitchTV" src="https://img.shields.io/badge/TwitchTV-Jeanluca%20Fernandes-purple?logo=twitch"></a>
  <a href="https://www.youtube.com/channel/UCEKS6GQ60VyhGkAVgJ_Rm6w"><img alt="Youtubr" src="https://img.shields.io/badge/Youtube-Jeanluca%20Fernandes-red?logo=youtube"></a>
  <a href="https://www.linkedin.com/in/jeanluca-fernandes-969266126/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeanluca%20Fernandes-blue?logo=linkedin"></a>
