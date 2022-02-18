@@ -3,7 +3,7 @@
 <h3> 👨‍💻 Sobre mim</h3>
 
  - 🎓 &nbsp; Bacharel em Ciência da Computação.
- - 👨💻 &nbsp; Analista de sistemas com foco em backend
+ - 👨💻 &nbsp; TechLead e Especialista de Desenv. de Software
 
 <h2 align="center"> ### - 📫 How to reach me: ...</h2>
 <p align="center"> 
